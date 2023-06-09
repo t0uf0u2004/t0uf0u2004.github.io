@@ -148,10 +148,7 @@ var l_messages = [
 	"Courir dans le QG fait de vous une personne recherchée.",
 	"Être lune supérieure vous permet d'avoir + 15 en charisme.",
 	"Être membre de la bête vous donne - 5 en intelligence",
-	"Être du souffle de la flamme ne vous donne aucun avantage.",
-	"Parler de Muzan vous fait avoir 5 étoiles.",
-	"Éviter de croire la famille Mikoto.",
-	"Éviter de fréquenter le clan Nori."
+	"Parler de Muzan vous fait avoir 5 étoiles."
 ];
 
 // Random message order?
