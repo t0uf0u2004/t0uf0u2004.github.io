@@ -126,9 +126,10 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{ogg: "mus1.ogg", name: ""},
-	{ogg: "mus1.ogg", name: ""},
-	{ogg: "mus1.ogg", name: ""},
+	{ogg: "song1.ogg", name: ""},
+	{ogg: "song2.ogg", name: ""},
+	{ogg: "song3.ogg", name: ""},
+	{ogg: "song4.ogg", name: ""},
 ];
 
 // Random music order?
@@ -137,7 +138,7 @@ var l_musicRandom = true;
 
 // Music volume
 // Choose a value between 0 (quietest) and 100 (loudest)
-var l_musicVolume = 35;
+var l_musicVolume = 30;
 
 // Enable custom messages?
 // 'true' or 'false'
@@ -145,10 +146,8 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
-	"Courir dans le QG fait de vous une personne recherchée.",
-	"Être lune supérieure vous permet d'avoir + 15 en charisme.",
-	"Être membre de la bête vous donne - 5 en intelligence",
-	"Parler de Muzan vous fait avoir 5 étoiles."
+	"Le projet a été lancé en octobre 2022 par Aizen et Nauja, épaulés par Bella.",
+	"La Kido Community remercie DEAD, ZeeNiiK, Messa et AyZix_ pour leur travail."
 ];
 
 // Random message order?
