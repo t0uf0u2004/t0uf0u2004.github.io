@@ -147,7 +147,7 @@ var l_messagesEnabled = true;
 // Enter your custom messages below
 var l_messages = [
 	"Le projet a été lancé en octobre 2022 par Aizen et Nauja, épaulés par Bella.",
-	"La Kido Community remercie DEAD, ZeeNiiK, Messa et AyZix_ pour leur travail."
+	"La Kido Community remercie Dead, ZeeNiiK, Messa et AyZix_ pour leur travail."
 ];
 
 // Random message order?
